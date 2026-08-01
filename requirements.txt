@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pytest
+jsonschema
+PyYAML
+torch
+torchdiffeq
